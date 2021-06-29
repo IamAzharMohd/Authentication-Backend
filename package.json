@@ -1,0 +1,30 @@
+{
+  "name": "backend-authentication",
+  "version": "1.0.0",
+  "description": "Focusing on authentication backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAzharMohd/Backend-Authentication.git"
+  },
+  "keywords": [
+    "backend-test"
+  ],
+  "author": "azhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamAzharMohd/Backend-Authentication/issues"
+  },
+  "homepage": "https://github.com/IamAzharMohd/Backend-Authentication#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "validator": "^13.6.0"
+  }
+}
